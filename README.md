@@ -25,14 +25,3 @@ The JavaScript code provides controllers and routers for handling CRUD operation
 
 SQL scripts create tables and insert initial data, including authors, publishers, readers, books, reviews, awards, and associations.
 
-## Contributing
-
-To contribute, fork the repository, create a new branch, make changes, push to your fork, and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or feedback, contact [Your Name](mailto:your.email@example.com).
