@@ -1,0 +1,24 @@
+{
+  "name": "cs355_p2",
+  "version": "1.0.0",
+  "description": "cs355_p2 Spring 2023",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "TW",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.14.2",
+    "koa-bodyparser": "^4.4.0",
+    "koa-json": "^2.0.2",
+    "koa-router": "^12.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
